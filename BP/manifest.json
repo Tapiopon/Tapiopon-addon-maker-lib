@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Tapiopon lib",
+    "description": "たぴおぽんメーカー前提アドオン B[0.1.0]",
+    "version": [0, 1, 0],
+    "uuid": "77cf344d-0e62-8bbf-f3da-f9ef5a1b7bb2",
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "description": "data pack",
+      "version": [0, 1, 0],
+      "uuid": "b813bd2d-1b90-96ea-c7c5-0ad38d13ab56"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "39b0df7e-fbc4-d7d7-1fee-60381c22a0af",
+      "version": [0, 1, 0]
+    }
+  ]
+}
